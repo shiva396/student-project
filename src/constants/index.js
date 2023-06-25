@@ -9,7 +9,18 @@ import {
   nopovert,
   zerohunger,
   affortable,
-  cleanwater, climate, decentwork, genderequality, industry, lifebelowwater, lifeonland, partnerships, reduced, responsible, peace, sustainable,
+  cleanwater,
+  climate,
+  decentwork,
+  genderequality,
+  industry,
+  lifebelowwater,
+  lifeonland,
+  partnerships,
+  reduced,
+  responsible,
+  peace,
+  sustainable,
   softrate,
   inspireathon,
   ideathon,
@@ -27,6 +38,10 @@ export const navLinks = [
   {
     id: "work",
     title: "Infrastructure",
+  },
+  {
+    id: "sdg",
+    title: "SDG Goals",
   },
   {
     id: "http://projects.sairamtap.edu.in/login/",
@@ -149,8 +164,9 @@ const experiences = [
     date: "Design Deliberately",
     points: [
       "In this pivotal stage, second-year students at SSIT dive deep into their chosen ideas, setting up the framework for their projects and meticulously gathering the necessary requirements.",
-      "This hands-on experience nurtures problem-solving skills, encourages collaboration, and strengthens technical knowledge.", ,
-      "Brace yourselves for an intense period of exploration and innovation!"
+      "This hands-on experience nurtures problem-solving skills, encourages collaboration, and strengthens technical knowledge.",
+      ,
+      "Brace yourselves for an intense period of exploration and innovation!",
     ],
   },
   {
@@ -162,7 +178,7 @@ const experiences = [
     points: [
       "This stage is all about turning concepts into reality through the development of prototypes.",
       "Armed with technical expertise and guided by experienced mentors at SSIT, participants embark on a journey of innovation, refinement, and iteration.",
-      "Prepare to witness a symphony of creativity and technical prowess!"
+      "Prepare to witness a symphony of creativity and technical prowess!",
     ],
   },
 
@@ -175,7 +191,7 @@ const experiences = [
     points: [
       "As fourth-year students at SSIT, you have tirelessly worked to transform your ideas into fully-fledged products, and now it's time to prepare for launch.",
       "This stage focuses on refining the product, enhancing its market viability, and strategizing for a successful introduction to the world.",
-      "It's time to inspire and leave a lasting impact!"
+      "It's time to inspire and leave a lasting impact!",
     ],
   },
 ];
@@ -192,16 +208,15 @@ const projects = [
   {
     name: "VISSION",
     description:
-    "To promote and participate in innovation and entrepreneurship which will empower every individual within the institution and which in turn will propel our country to emerge as a robust economy.",
+      "To promote and participate in innovation and entrepreneurship which will empower every individual within the institution and which in turn will propel our country to emerge as a robust economy.",
     image: vission,
   },
   {
     name: "MISSION",
     description:
-    "To encourage students and the faculty to work on new ideas and convert them into successful enterprises by promoting initiatives like Boot up camps, competitions and workshops on capacity building.",
+      "To encourage students and the faculty to work on new ideas and convert them into successful enterprises by promoting initiatives like Boot up camps, competitions and workshops on capacity building.",
     image: mission,
   },
-  
 ];
 
 export { services, technologies, experiences, testimonials, projects };

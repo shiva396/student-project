@@ -40,7 +40,7 @@ const Hero = () => {
               repeatType: "loop",
             }}
           >
-            <img src="/down-arrow.png" className='w-6 h-6' />
+            {/* <img src="/down-arrow.png" className='w-6 h-6' /> */}
           </motion.div>
         </a>
       </div>

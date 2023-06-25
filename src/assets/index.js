@@ -34,6 +34,24 @@ import inspireathon from "./company/inspireathon.png";
 import vission from "./vission.jpg";
 import mission from "./mission.jpg";
 
+import goal1 from "./SDG/goal1.png";
+import goal2 from "./SDG/goal2.png";
+import goal3 from "./SDG/goal3.png";
+import goal4 from "./SDG/goal4.png";
+import goal5 from "./SDG/goal5.png";
+import goal6 from "./SDG/goal6.png";
+import goal7 from "./SDG/goal7.png";
+import goal8 from "./SDG/goal8.png";
+import goal9 from "./SDG/goal9.png";
+import goal10 from "./SDG/goal10.png";
+import goal11 from "./SDG/goal11.png";
+import goal12 from "./SDG/goal12.png";
+import goal13 from "./SDG/goal13.png";
+import goal14 from "./SDG/goal14.png";
+import goal15 from "./SDG/goal15.png";
+import goal16 from "./SDG/goal16.png";
+// import goal17 from "./SDG/goal17.png";
+
 export {
   logo,
   limes,
@@ -66,5 +84,22 @@ export {
   peace,
   partnerships,
   vission,
-  mission
+  mission,
+  goal1,
+  goal2,
+  goal3,
+  goal4,
+  goal5,
+  goal6,
+  goal7,
+  goal8,
+  goal9,
+  goal10,
+  goal11,
+  goal12,
+  goal13,
+  goal14,
+  goal15,
+  goal16,
+  // goal17,
 };
